@@ -112,12 +112,12 @@ round-dpad-v27
 ```
 
 **Решение:** 
-1. Уберем те ресурсы, которые противоречат заданном конфигурации (fr):
+1. Уберем те ресурсы, которые противоречат заданной конфигурации (fr):
 
 ```
 (default)
 large-12key-v25
-~~en-large-tvdpi~~
+* en-large-tvdpi
 car-notouch
 notnight-v25
 round-finger
