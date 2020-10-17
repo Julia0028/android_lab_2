@@ -16,10 +16,19 @@ ADB (Android Debug Bridge)  - инструмент командной строк
 
 *Рис. 1.1 Команда ADB*
 
+![image_2_1](https://github.com/Julia0028/android_lab_2/blob/master/report_png/2_1.png)
+
 Как можно увидеть ниже, после выполнения команды ОС "тихо" уничтожило процесс в фоновом режиме. Если пользователь переключится на другое приложение, а затем вернется к данному, оно перезапустится.
 
 *Рис. 1.2 Жизненный цикл приложения до использования команды*
+
+![image_1](https://github.com/Julia0028/android_lab_2/blob/master/report_png/1.png)
+
 *Рис. 1.3 Перезапуск приложения после воздействия ADB*
+
+![image_2](https://github.com/Julia0028/android_lab_2/blob/master/report_png/2.png)
+
+![image_3](https://github.com/Julia0028/android_lab_2/blob/master/report_png/3.png)
 
 Пример №2. Принятие входящего звонка
 ___
